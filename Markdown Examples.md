@@ -5,7 +5,7 @@ Namely, this document will have the **bolded text**, the *italicized text*, and 
 
 It will also include the link to [the readme file in this depostiory,](../master/README.md) as well as the [link to an external web site.](https://en.wikipedia.org/wiki/Markdown "Markdown on Wikipedia")
 
->It won't contain everything, but it will hold the blockquotes,
+>It won't contain everything, but it will hold the blockquote,
 
 * The
 * Bulleted
