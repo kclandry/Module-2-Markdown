@@ -7,7 +7,7 @@ The information not in this page will be found [in the other document in this di
 The information in this document will be below this horizontal rule.
 ___
 
-I don't know much about code, so I will use the code I ripped from the example document.
+I don't know much about code, so I will use the code I ripped from the example document, framed by the three tick marks and "javascript" to appear as code with syntax highlighting.
 
 ```javascript
 var s = "JavaScript syntax highlighting";
