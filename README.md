@@ -2,9 +2,9 @@
 
 This document will normally contain useful information, but for now it is just another document for the use of this example project.
 
-This page will contain the information not contained [in the other document in this directory](../master/Markdown%20Examples.md)
+The information not in this page will be found [in the other document in this directory](../master/Markdown%20Examples.md)
 
-The information still needed will be below this horizontal rule.
+The information in this will be below this horizontal rule.
 ___
 
 I don't know much about code, so I will use the code I ripped from the example document.
