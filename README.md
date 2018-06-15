@@ -25,4 +25,4 @@ And|The|Less Pretty
 This one|While this|And this
 is right|is centered|is left
 
-This document contained the H4 Header, the link to the other document, the horizontal rule the code block with syntax highlighting and the table.
+This document contained the H4 Header, the link to the other document, the horizontal rule, the code block with syntax highlighting, and the table.
